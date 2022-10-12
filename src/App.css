@@ -340,6 +340,33 @@ header .nav-btn {
 }
 /*-Categories Section Ends -*/
 
+
+/*-About Section Starts -*/
+     .about-header{
+      margin-bottom: 30px;
+     }
+  .about-header h2{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: var(--secondaryColor);
+  }
+ .about-header span{
+  color: var(--mainColor);
+ }
+
+ .about-para{
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--secondaryColor);
+  margin-top: 20px;
+ }
+
+ .about-bottom{
+  margin-top: 120px;
+ }
+/*-About Section Ends -*/
+
 @media only screen and (max-width: 768px) {
 
   /*-Navbar Starts -*/
