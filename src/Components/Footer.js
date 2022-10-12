@@ -15,10 +15,10 @@ const Footer = () => {
                             <img src={FooterLogo} alt="" />
                         </div>
                         <div className="social-logos">
-                            <a href="/#"><img src={Facebook} alt="" /></a>
-                            <a href="/#"><img src={Instagram} alt="" /></a>
-                            <a href="/#"><img src={Twitter} alt="" /></a>
-                            <a href="/#"><img src={Youtube} alt="" /></a>
+                            <a href="#"><img src={Facebook} alt="" /></a>
+                            <a href="#"><img src={Instagram} alt="" /></a>
+                            <a href="#"><img src={Twitter} alt="" /></a>
+                            <a href="#"><img src={Youtube} alt="" /></a>
                         </div>
                     </div>
                     <div className="footer-links">
