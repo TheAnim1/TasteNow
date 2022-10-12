@@ -1,6 +1,7 @@
 import './App.css';
 import AboutUs from './Components/AboutUs';
 import Categories from './Components/Categories';
+import Footer from './Components/Footer';
 import HeroSection from './Components/HeroSection';
 import Navbar from './Components/Navbar';
 function App() {
@@ -10,6 +11,7 @@ function App() {
      <HeroSection/>
      <Categories/>
      <AboutUs/>
+     <Footer/>
     </div>
   );
 }
