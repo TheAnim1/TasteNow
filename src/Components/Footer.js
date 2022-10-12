@@ -9,8 +9,12 @@ const Footer = () => {
         <footer className='footer-container'>
             <div className="container">
 
+                <div className="mobile-footer-img">
+                    <img src={FooterLogo} alt="logo" />
+                </div>
+
                 <div className="footer-grid">
-                    <div className="grid-three-column">
+                    <div className="footer-logos">
                         <div className="footer-logo">
                             <img src={FooterLogo} alt="" />
                         </div>
@@ -37,6 +41,17 @@ const Footer = () => {
                         <a href="#">Is İmkanları</a>
                         <a href="#">Car Tercihleri</a>
                     </div>
+                    <div className="footer-links">
+                        <a href="#">Yard Market</a>
+                        <a href="#">Is İmkanları</a>
+                        <a href="#">Car Tercihleri</a>
+                    </div>
+                </div>
+                <div className="mobile-social-logos">
+                        <a href="#"><img src={Facebook} alt="" /></a>
+                        <a href="#"><img src={Instagram} alt="" /></a>
+                        <a href="#"><img src={Twitter} alt="" /></a>
+                        <a href="#"><img src={Youtube} alt="" /></a>
                 </div>
             </div>
         </footer>
