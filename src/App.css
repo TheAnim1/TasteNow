@@ -52,6 +52,7 @@ header .signup-btn {
   width: 140px;
   height: 46px;
   margin-left: 50px;
+  cursor: pointer;
 }
 
 header .nav-btn {
@@ -311,6 +312,7 @@ header .nav-btn {
       height: 34px;
       margin-top: 20px;
       color: #fff;
+      cursor: pointer;
       
 }
 
