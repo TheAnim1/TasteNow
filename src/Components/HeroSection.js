@@ -17,7 +17,7 @@ const HeroSection = () => {
                     <img src={HeroImg} alt="" className='hero-image'/>
                 </div>
             </div>
-             <span class="curve"></span>
+             <span className="curve"></span>
         </section>
   
     </div>
